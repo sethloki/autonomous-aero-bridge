@@ -1,0 +1,20 @@
+# Arduino / C++ / PlatformIO
+/build/
+.pio/
+*.hex
+*.bin
+*.elf
+.vscode/
+
+# Python & ROS 2 (Colcon builds)
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+install/
+log/
+colcon_metadata/
+
+# OS specific temporary files
+.DS_Store
+Thumbs.db
